@@ -201,14 +201,11 @@ Possible upgrades for this project:
 ## 👨‍💻 Author
 
 Sam Wilson R  
-B.E Computer Science Engineering (AI / ML)  
-Christ The King Engineering College  
-
-Academic Year  
-2025 – 2029
 
 GitHub  
 https://github.com/rsamwilson2323-cloud
+
+LinkedIn https://www.linkedin.com/in/sam-wilson-14b554385
 
 ------------------------------------------------------------
 
